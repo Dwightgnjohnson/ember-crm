@@ -1,7 +1,10 @@
-h1 Hello World
+header
+  article
+    .logo
+      h1
+        a href="#" Dwigt's Ember CRM 
 
-| Name:
-name
+section#main
+  = outlet
 
-
-outlet
+footer
